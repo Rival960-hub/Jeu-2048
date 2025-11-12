@@ -2,7 +2,7 @@
 
 Un remake moderne et responsive du célèbre jeu **2048**, développé en **HTML, CSS et JavaScript**.  
 Ce projet reprend le gameplay original tout en ajoutant des animations fluides et une compatibilité smartphone (gestes tactiles).
-[jeu 2048](https://rival960-hub.github.io/Jeu-2048/)
+<br> Voici le lien pour accéder au jeu : [2048](https://rival960-hub.github.io/Jeu-2048/)
 
 ---
 
